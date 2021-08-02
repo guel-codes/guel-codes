@@ -4,8 +4,7 @@
 
 - 💻 Self Taught Python Developer 🐍 Currently learning Full Stack Development
 - 🎨✍ Artist | Designer
-- 🎮 Gaming
-
+- 🎮 Gaming | Anime 
 
 ![Kaneda](https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif) 
 
