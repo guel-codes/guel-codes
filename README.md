@@ -6,7 +6,8 @@
 - 🎨✍ Artist | Designer
 - 🎮 Gaming | Anime 
 
-![Kaneda](https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif) 
+#### TRYING NOT TO BLOW UP TOO MANY THINGS
+<img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="500" height="269">
 
 
 
