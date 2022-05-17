@@ -1,8 +1,7 @@
-# Hello I'm Miguel ✋🏽
-#### HERE TO LEARN NEW SKILLS AND SHARE MY PROJECTS
+# Miguel Johnson ✋🏽
 <img src="https://images.gr-assets.com/hostedimages/1590410816ra/29537993.gif" width="500" height="269">
 
-- 💻 Self Taught Python Developer 🐍 Currently learning Full Stack Development
+- 💻  Data Engineering and Web Development
 - 🎨✍ Artist | Designer
 - 🎮 Gaming | Anime 
 
