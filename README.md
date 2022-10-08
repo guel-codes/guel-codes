@@ -7,7 +7,5 @@
 
 
 <img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="500" height="269">
-"Don’t worry if it doesn’t work right. If everything did, you’d be out of a job" - Mosher's Law of Software Engineering
-
-
+"The road to wisdom? Well, it's plain. And simple to express: Err and err and err again, but less and less and less" - Piet Hein
 
