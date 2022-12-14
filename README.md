@@ -1,7 +1,7 @@
 # Miguel Johnson ✋🏽
 <img src="https://images.gr-assets.com/hostedimages/1590410816ra/29537993.gif" width="500" height="269">
 
-- 💻  Data Engineering
+- 💻  Data Engineer
 - 🎨✍ Artist | Designer
 - 🎮 Gaming | Anime 
 
