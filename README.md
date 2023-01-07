@@ -3,9 +3,6 @@
 
 - 💻  Data Engineer
 - 🎨✍ Artist | Designer
-- 🎮 Gaming | Anime 
-
-
+- 🎮 Gaming
 
 "The road to wisdom? Well, it's plain. And simple to express: Err and err and err again, but less and less and less" - Piet Hein
-
