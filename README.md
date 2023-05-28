@@ -8,8 +8,8 @@ Currently in Columbus Ohio working in the Esports and gaming industry as a data 
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,postgres" alt="languages" /> </br>
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,vscode,kubernetes,aws" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,postgres,git,github,githubactions" alt="languages" /> </br>
+    <img src="https://skillicons.dev/icons?i=mongodb,jest,docker,vscode,kubernetes,aws,figma" alt="tools" />
     
   </a>
 </p>
