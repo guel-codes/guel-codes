@@ -9,7 +9,7 @@ Currently in Columbus Ohio working in the Esports and gaming industry as a data 
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,postgres" alt="languages" /> </br>
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,vscode,kubernetes,aws,bash" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=mongodb,docker,vscode,kubernetes,aws" alt="tools" />
     
   </a>
 </p>
