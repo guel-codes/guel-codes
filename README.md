@@ -1,5 +1,5 @@
 # Miguel Johnson ✋🏽
-<img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="400" height="269">
+<img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="700" height="450">
 
 - 💻  Data Engineer
 - 🎨✍ Artist | Designer
