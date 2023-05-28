@@ -1,8 +1,8 @@
-# Miguel Johnson ✋🏽
-<img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="700" height="450">
+# Hello There ✋🏽
+I'm Miguel, currently in Columbus Ohio working in the Esports and gaming industry.
 
-- 💻  Data Engineer
-- 🎨✍ Artist | Designer
-- 🎮 Gaming
+<center>
+  <img src="https://thumbs.gfycat.com/WhoppingNeglectedAustraliancurlew-size_restricted.gif" width="700" height="450">
+</center>
 
-"The road to wisdom? Well, it's plain. And simple to express: Err and err and err again, but less and less and less" - Piet Hein
+💻  Data Engineer | 🎨 Artist | 🎮 Gaming
