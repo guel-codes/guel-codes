@@ -13,3 +13,7 @@ Currently working in the Esports and gaming industry as a data engineer.
     
   </a>
 </p>
+
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guel-codes&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</a></p>
