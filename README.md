@@ -9,7 +9,7 @@ Currently working in the Esports and gaming industry as a data engineer.
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=py,javascript,typescript,postgres,git,github,githubactions" alt="languages" /> </br>
-    <img src="https://skillicons.dev/icons?i=mongodb,jest,docker,vscode,kubernetes,aws,figma" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=mongodb,discord,docker,vscode,kubernetes,aws,figma" alt="tools" />
     
   </a>
 </p>
