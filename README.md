@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I'm Miguel ✋🏽</h1> 
 
 <p align="center">
-Currently working in the Esports and gaming industry as a data engineer.
+Currently working in the Esports and gaming industry as a data and software engineer.
 
 </p>
 
