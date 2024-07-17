@@ -1,7 +1,14 @@
 <h1 align="center">✋🏽 I'm Miguel ✋🏽</h1> 
 
 <p align="center">
-Currently working in the Esports and gaming industry as a data and software engineer.
+Data Engineer | Software Engineer | Open-Source Contributor <br>
+
+  - 🕹️ Data Engineer [eFuse-Inc](https://efuse.gg/) 🎮
+  - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
+    - Currently contributing to 🏷️ [django-taggit](https://github.com/jazzband/django-taggit)
+  - 👨🏽‍🏫 Tutoring new software engineer students
+  - 🎨 Artist | 👨🏽‍🎨 Designer
+
 
 </p>
 
