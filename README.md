@@ -6,7 +6,7 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   - 🕹️ Data Engineer [eFuse-Inc](https://efuse.gg/) 🎮
   - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
     - Currently contributing to 🏷️ [django-taggit](https://github.com/jazzband/django-taggit)
-  - ✍🏽 Check out my "techish" [blog here](https://medium.com/@miguel-codes) 👨🏽‍💻 
+  - ✍🏽 Check out my "techish" blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
   - 👨🏽‍🏫 Tutoring new software engineering bootcamp students
   - 🎨 Artist | 👨🏽‍🎨 Designer when time allows
 
