@@ -2,13 +2,12 @@
 
 <p align="center">
 Data Engineer | Software Engineer | Open-Source Contributor <br>
-
+  
   - 🕹️ Data Engineer [eFuse-Inc](https://efuse.gg/) 🎮
   - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
   - ✍🏽 Check out my "techish" blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
   - 👨🏽‍🏫 Tutoring new software engineering bootcamp students
-  - 🎨 Artist | 👨🏽‍🎨 Designer when time allows
-
+  - 🎨 Artist | 👨🏽‍🎨 Designer
 
 </p>
 
