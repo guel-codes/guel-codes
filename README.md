@@ -5,7 +5,7 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   
   - 🕹️ Data Engineer [eFuse-Inc](https://efuse.gg/) 🎮
   - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
-  - ❤️ Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
+  - 💜 Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
   - 🐍 Member of the [Python Software Foundation D&I Working Group](https://wiki.python.org/psf/DiversityandInclusionWG) 🐍
   - 👨🏽‍💻 OSS Contributor/Mentor at [Distribute Aid](https://github.com/distributeaid) 🚛
   - ✍🏽 Check out my blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
