@@ -10,8 +10,7 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   - 👨🏽‍💻 OSS Contributor/Mentor at [Distribute Aid](https://github.com/distributeaid) 🚛
   - ✍🏽 Check out my blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
   - 👨🏽‍🏫 Tutoring new software engineering bootcamp students
-  - 📱 building silly apps on my phone using Pythonista 🐍
-  - 🎨 Artist | 👨🏽‍🎨 Designer
+  - 🎨 Artist | 👨🏽‍🎨 Designer in my free time ⏰
 
 </p>
 
