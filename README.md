@@ -8,7 +8,6 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   - 💜 Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
   - 👨🏽‍💻 OSS Contributor/Mentor at [Distribute Aid](https://github.com/distributeaid) 🚛
   - ✍🏽 Check out my blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
-  - 🎨 Artist | 👨🏽‍🎨 Designer in my free time ⏰
 
 </p>
 
