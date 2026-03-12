@@ -8,7 +8,6 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   - 💜 Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
   - 👨🏽‍💻 OSS Contributor/Mentor at [Distribute Aid](https://github.com/distributeaid) 🚛
   - ✍🏽 Check out my blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
-  - 👨🏽‍🏫 Tutoring new software engineering bootcamp students
   - 🎨 Artist | 👨🏽‍🎨 Designer in my free time ⏰
 
 </p>
@@ -22,6 +21,6 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
   </a>
 </p>
 
-<p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guel-codes&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-</a></p>
+<!-- <p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guel-codes&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs"> -->
+<!-- </a></p> -->
