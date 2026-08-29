@@ -4,7 +4,7 @@
 Data Engineer | Software Engineer | Open-Source Contributor <br>
   
 
-- 🩺Data Engineer @ [Wisp](https://hellowisp.com/) <img width="20" height="20" alt="wisp" src="https://github.com/user-attachments/assets/819eb3ec-78b3-4a6d-b90d-1802c4d23624" />
+- 🩺 Data Engineer @ [Wisp](https://hellowisp.com/) <img width="20" height="20" alt="wisp" src="https://github.com/user-attachments/assets/819eb3ec-78b3-4a6d-b90d-1802c4d23624" />
 - 👨🏽‍🏫 Instructor at [ColorCodedLabs](https://www.colorcodedlabs.com/) 👨🏽‍💻
 - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
 - 💜 Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
