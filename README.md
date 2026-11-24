@@ -16,8 +16,8 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,postgres,git,github,githubactions" alt="languages" /> </br>
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode,kubernetes,aws" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,postgres,p5js" alt="languages" /> </br>
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode,kubernetes,aws,docker,github,figma" alt="tools" />
     
   </a>
 </p>
