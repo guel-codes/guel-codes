@@ -8,7 +8,7 @@ Data Engineer | Software Engineer | Open-Source Contributor <br>
 - 👨🏽‍🏫 Instructor at [ColorCodedLabs](https://www.colorcodedlabs.com/) 👨🏽‍💻
 - 🚀 Member of [Djangonaut Space](https://djangonaut.space/) 🧑🏾‍🚀
 - 💜 Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) 💚
-- 👨🏽‍💻 OSS Contributor/Mentor at [Distribute Aid](https://github.com/distributeaid) 🚛
+- 👨🏽‍💻 OSS Contributor/Maintainer at [Distribute Aid](https://github.com/distributeaid) 🚛
 - ✍🏽 Check out my blog [here](https://medium.com/@miguel-codes) 👨🏽‍💻 
 
 </p>
